@@ -14,7 +14,7 @@
   },
   "homepage": "https://github.com/wukibaka/ddns-telegram-bot#readme",
   "devDependencies": {
-    "@vercel/node": "2.9.8"
+    "@vercel/node": "2.9.10"
   },
   "dependencies": {
     "grammy": "1.14.1"
